@@ -1,0 +1,55 @@
+body {
+  background: pink;
+}
+
+h1 {
+	background: pink;
+	padding-top: 70px;
+	padding-bottom: 50px;
+	width: 100%;
+	position: fixed;
+	
+   margin-top: -50px;
+  margin-bottom: 170px;
+  text-align: center;
+  
+
+}
+
+ul#meniu {
+  position: fixed;
+  list-style-type: none;
+  font-size: 18px;
+  padding-top: 200px;
+}
+
+ul#meniu li {
+  margin-bottom: 20px;
+}
+
+#continut{
+  background: thistle;/*gainsboro,lightcyan,plum,thistle*/
+  /*padding-left: 300px;*/
+  margin-left: 350px;
+  text-align: center;
+  padding: 20px;
+  padding-top: 150px;
+  font-size: 26px;
+  text-shadow: 1px 1px #808080;
+}
+
+.stanga {
+  float: left;
+}
+
+.dreapta {
+  float: right;
+}
+
+.goleste-stanga-dreapta {
+  clear: both;
+}
+
+.cu-margine {
+  margin: 20px;
+}
