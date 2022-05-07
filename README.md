@@ -10,9 +10,10 @@ aaaaand nope, can't post .rar here
 🔥 (:fire:)
 (## regleaza size of text. # is biggest, daca pui mai multe se face mai mic proportional cu nr de #)
 
--->
 
--uploaded all files from the archieve
+-uploaded all files from the archive
+
+-->
  
  This is a sample pic of the site interface:
  
